@@ -2,6 +2,7 @@ defmodule Chat.UserSocket do
   use Phoenix.Socket
 
   ## Channels
+  # This will match all topics that start with "room". room/1, room/2, etc.
   channel "rooms:*", Chat.RoomChannel
 
   ## Transports
