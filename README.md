@@ -1,3 +1,5 @@
+Here I explain how it all works - https://www.youtube.com/playlist?list=PLkdLxQVsHYXzQYu6dUv6Z-mwhjK6dViJR
+
 # Chat
 
 To start your Phoenix app:
